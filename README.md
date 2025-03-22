@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of using a VPN.<br />
 
 - STEP 1 - Locate Local IP
 - STEP 2 - Setting Up VM Using Azure
-- STEP 3 - Locating IP Through VM (France)
+- STEP 3 - Locating IP Through VM (Switzerland)
 - STEP 4 - Connecting to VPN Through VM
 - STEP 5 - Locating IP Through VPN (Japan)
 
